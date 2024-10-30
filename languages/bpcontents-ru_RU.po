@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP-Contents 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-06 11:41+0200\n"
+"PO-Revision-Date: 2009-07-06 11:42+0200\n"
+"Last-Translator: slaFFik <slaffik@list.ru>\n"
+"Language-Team: CosyDale.com <slaffik@list.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: Ukraine\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+": \n"
+"X-Poedit-SearchPath-0: ."
+
+#: bpc-categories.php:277
+#: bpc-categories.php:310
+#: bpc-categories.php:313
+#: bpc-categories.php:320
+#: bpc-categories.php:333
+#: bpc-categories.php:336
+#: bpc-categories.php:343
+#, php-format
+msgid "View all posts in %s"
+msgstr "Посмотреть все записи в %s"
+
+#: bpc-categories.php:297
+msgid "Uncategorized"
+msgstr "Вне категорий"
+
+#: bpc-categories.php:386
+msgid "None"
+msgstr "Пусто"
+
+#: bpc-categories.php:515
+#: bpc-categories.php:517
+msgid "No categories"
+msgstr "Категории не назначены"
+
+#: bpc-categories.php:639
+msgid "You did not enter a category name."
+msgstr "Вы не ввели имя категории"
+
+#: bpc-classes.php:299
+#, php-format
+msgid "View all items filed under %s"
+msgstr "Посмотреть все элементы в %s"
+
+#: bpc-classes.php:314
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "RSS лента всех записей в %s"
+
+#: bpc-contents.php:233
+#: blogs/bpc-blogs.php:41
+msgid "Contents"
+msgstr "Рубрикатор"
+
+#: bpc-taxonomy.php:19
+msgid "Site Wide Tags"
+msgstr "Теги сайта"
+
+#: blogs/bpc-blogs-classes.php:30
+msgid "Blog Avatar"
+msgstr "Аватар блога"
+
+#: blogs/bpc-blogs-templatetags.php:37
+msgid "Select A Blog"
+msgstr "Выберите блог"
+
+#: blogs/bpc-blogs-templatetags.php:38
+msgid "Tags"
+msgstr "Теги"
+
+#: blogs/bpc-blogs-templatetags.php:39
+msgid "Categories"
+msgstr "Категории"
+
+#: blogs/bpc-blogs-widgets.php:5
+#: blogs/bpc-blogs-widgets.php:6
+#: blogs/bpc-blogs.php:22
+#: bpcontents/blogs/blog-tags.php:24
+#: bpcontents/items/index.php:33
+msgid "Blog Tags"
+msgstr "Теги блога"
+
+#: blogs/bpc-blogs-widgets.php:7
+#: blogs/bpc-blogs-widgets.php:8
+#: blogs/bpc-blogs.php:23
+#: bpcontents/items/index.php:37
+msgid "Blog Categories"
+msgstr "Категории блогов"
+
+#: blogs/bpc-blogs-widgets.php:53
+#: blogs/bpc-blogs-widgets.php:101
+msgid "Title:"
+msgstr "Заголовок"
+
+#: blogs/bpc-blogs.php:28
+msgid "Blog"
+msgstr "Блог"
+
+#: blogs/bpc-blogs.php:71
+#: blogs/bpc-blogs.php:86
+#: blogs/bpc-blogs.php:136
+#: blogs/bpc-blogs.php:163
+msgid "Your settings have been successfully saved."
+msgstr "Ваши настройки успешно сохранены"
+
+#: bpcontents/blogs/blog-categories.php:15
+msgid "Select Your Blog Categories"
+msgstr "Выберите категорию вашего блога"
+
+#: bpcontents/blogs/blog-categories.php:19
+#: bpcontents/blogs/blog-tags.php:27
+#: bpcontents/groups/group-categories.php:18
+#: bpcontents/groups/group-tags.php:26
+msgid "Save"
+msgstr "  Сохранить  "
+
+#: bpcontents/blogs/blog-categories.php:26
+#: bpcontents/blogs/blog-tags.php:35
+msgid "Please select a blog."
+msgstr "Пожалуйста, выберите блог."
+
+#: bpcontents/blogs/blog-tags.php:15
+#: bpcontents/groups/group-tags.php:14
+msgid "Sitewide Tags"
+msgstr "Теги сайта"
+
+#: bpcontents/blogs/blog-tags.php:19
+msgid "Sitewide Blog Tags"
+msgstr "Теги всех блогов"
+
+#: bpcontents/blogs/blog-tags.php:26
+#: bpcontents/groups/group-tags.php:25
+msgid "Edit your group tags. Enter a comma separated list of tag names."
+msgstr "Редактировать теги вашей группы. Разделяйте их запятыми."
+
+#: bpcontents/blogs/select-blog.php:10
+msgid "Select Blog"
+msgstr "Выберите блог"
+
+#: bpcontents/blogs/select-blog.php:10
+#, php-format
+msgid "%s's Blogs"
+msgstr "%s: Блоги"
+
+#: bpcontents/blogs/select-blog.php:25
+msgid "You haven't created any blogs yet."
+msgstr "Вы не создали еще ни одного блога."
+
+#: bpcontents/blogs/select-blog.php:25
+#, php-format
+msgid "%s hasn't created any public blogs yet."
+msgstr "%s: не создано еще ни одного блога."
+
+#: bpcontents/groups/group-categories.php:14
+msgid "Select Your Group Categories"
+msgstr "Выберите категорию вашей группы"
+
+#: bpcontents/groups/group-tags.php:18
+msgid "Sitewide Group Tags"
+msgstr "Теги групп сайта"
+
+#: bpcontents/groups/group-tags.php:23
+msgid "Your Group Tags"
+msgstr "Теги вашей группы"
+
+#: bpcontents/items/index.php:5
+msgid "Item Listing"
+msgstr "Список элементов"
+
+#: bpcontents/items/index.php:19
+msgid "All Contents"
+msgstr "Все содержимое"
+
+#: bpcontents/items/index.php:23
+msgid "Member Tags"
+msgstr "Теги пользователей"
+
+#: bpcontents/items/index.php:27
+msgid "Member Categories"
+msgstr "Категории пользователей"
+
+#: bpcontents/items/index.php:44
+msgid "Group Tags"
+msgstr "Теги группы"
+
+#: bpcontents/items/index.php:48
+msgid "Group Categories"
+msgstr "Категории групп"
+
+#: bpcontents/profile/admin-blogs.php:17
+#: bpcontents/profile/admin-groups.php:17
+#: bpcontents/profile/admin-members.php:17
+#: bpcontents/profile/admin-term-list.php:50
+msgid "Delete"
+msgstr "  Удалить  "
+
+#: bpcontents/profile/admin-blogs.php:24
+#: bpcontents/profile/admin-groups.php:24
+#: bpcontents/profile/admin-members.php:24
+#: bpcontents/profile/admin-term-list.php:33
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: bpcontents/profile/admin-blogs.php:27
+msgid "Add blog categories"
+msgstr "Добавить категорию блогов"
+
+#: bpcontents/profile/admin-blogs.php:30
+#: bpcontents/profile/admin-groups.php:30
+#: bpcontents/profile/admin-members.php:30
+msgid "Add"
+msgstr "  Добавить  "
+
+#: bpcontents/profile/admin-groups.php:27
+msgid "Add group categories"
+msgstr "Добавить категорию групп"
+
+#: bpcontents/profile/admin-members.php:27
+msgid "Add member categories"
+msgstr "Добавить категорию пользователей"
+
+#: bpcontents/profile/admin-term-list.php:17
+msgid "Term Id"
+msgstr "ID элемента"
+
+#: bpcontents/profile/admin-term-list.php:21
+msgid "Taxonomy"
+msgstr "Расположение"
+
+#: bpcontents/profile/admin-term-list.php:25
+msgid "Item Count"
+msgstr "Количество элементов"
+
+#: bpcontents/profile/admin-term-list.php:29
+#: bpcontents/profile/admin-term-list.php:76
+msgid "Slug"
+msgstr "Слаг"
+
+#: bpcontents/profile/admin-term-list.php:37
+msgid "Name"
+msgstr "Имя"
+
+#: bpcontents/profile/admin-term-list.php:41
+msgid "Description"
+msgstr "Описание"
+
+#: bpcontents/profile/admin-term-list.php:59
+msgid "Go"
+msgstr "  Перейти  "
+
+#: bpcontents/profile/admin-term-list.php:74
+msgid "Id"
+msgstr "ID"
+
+#: bpcontents/profile/admin-term-list.php:75
+msgid "Term"
+msgstr "Элемент"
+
+#: bpcontents/profile/admin-term-list.php:77
+msgid "Count"
+msgstr "Кол-во"
+
+#: bpcontents/profile/admin-term-list.php:78
+msgid "Parent"
+msgstr "Родитель"
+
+#: bpcontents/profile/profile-categories.php:14
+msgid "Select Your Member Categories"
+msgstr "Выберите ваши категории пользователей"
+
+#: bpcontents/profile/profile-tags.php:18
+msgid "Sitewide Member Tags"
+msgstr "Теги пользователей сайта"
+
+#: bpcontents/profile/profile-tags.php:23
+msgid "Your Member Tags"
+msgstr "Ваши теги пользователей"
+
+#: bpcontents/profile/profile-tags.php:25
+msgid "Edit your member tags. Enter a comma separated list of tag names."
+msgstr "Редактировать ваши теги пользователей. Разделяйте их запятыми."
+
+#: groups/bpc-groups.php:28
+msgid "Group"
+msgstr "Группа"
+
+#: items/bpc-items-templatetags.php:167
+#, php-format
+msgid "Viewing item %d to %d (of %d items)"
+msgstr "Просмотр элементов с %d по %d (всего %d)"
+
+#: items/bpc-items-templatetags.php:179
+#, php-format
+msgid " for %s in %s"
+msgstr " для элемента %s в блоке %s"
+
+#: items/bpc-items-templatetags.php:350
+msgid "Select a tag or category."
+msgstr "Выберите тег или категорию."
+
+#: items/bpc-items-templatetags.php:353
+msgid "No items found"
+msgstr "Ничего не найдено"
+
+#: items/bpc-items-widgets.php:4
+#: items/bpc-items-widgets.php:5
+msgid "All Content Tags"
+msgstr "Все теги"
+
+#: members/bpc-members-templatetags.php:87
+msgid "Members"
+msgstr "Пользователи"
+
+#: members/bpc-members-templatetags.php:88
+msgid "Groups"
+msgstr "Группы"
+
+#: members/bpc-members-templatetags.php:89
+msgid "Blogs"
+msgstr "Блоги"
+
+#: members/bpc-members-templatetags.php:90
+msgid "Terms"
+msgstr "Элементы"
+
+#: members/bpc-members.php:29
+msgid "Member"
+msgstr "Пользователь"
+
+#: members/bpc-members.php:41
+msgid "Profile"
+msgstr "Профиль"
+
+#: members/bpc-members.php:44
+msgid "Site Admin"
+msgstr "Админ сайта"
+
+#: members/bpc-members.php:46
+msgid "My Contents"
+msgstr "Мое содержимое"
+
+#: members/bpc-members.php:215
+msgid "Term deleted."
+msgstr "Элемент удален."
+
+#: terms/bpc-terms-templatetags.php:397
+msgid "Tag"
+msgstr "Тег"
+
+#: terms/bpc-terms-templatetags.php:399
+msgid "Category"
+msgstr "Категория"
+
+#: terms/bpc-terms-templatetags.php:406
+msgid "No Parent"
+msgstr "отсутствует"
+
+#: terms/bpc-terms-templatetags.php:440
+msgid "Select a taxonomy."
+msgstr "Выберите расположение."
+
+#: terms/bpc-terms-templatetags.php:443
+msgid "No terms found"
+msgstr "Ничего не найдено"
+

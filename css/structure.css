@@ -1,0 +1,96 @@
+#oci-edit-term{
+	width: 300px;
+	float: left;
+}
+#oci-edit-term #submit.save{
+	float: left;
+	margin: 0 0 10px 0;
+}
+#oci-edit-term #submit.delete{
+	float: right;
+	margin: 0 0 10px 0;
+}
+#oci-edit-term .term_value{
+	font-weight: bold;
+}
+#oci-edit-term .term{
+	padding: 0 0 4px 0;
+}
+#oci-terms-list {
+	width: 350px;
+	margin: 0 0 0 310px;
+	padding: 1em 0 1em 0;
+}
+#oci-dropdown-taxonomies{
+	width: 270px;
+	padding: 0 0 2em 0;
+}
+#oci-dropdown-taxonomies #tax{
+	width: 200px;
+	float: left;
+}
+#oci-dropdown-taxonomies #submit{
+	margin: 0 0 0 15px;
+}
+
+#oci-terms-table{
+	background: #fff;
+	border-collapse: collapse;
+	text-align: left;
+}
+#oci-terms-table th{	
+	padding: 10px 4px;
+	border-bottom: 1px solid;
+}
+#oci-terms-table td{
+	padding: 2px 4px;
+}
+#oci-terms-table tbody tr:hover td{
+	color: #F7740A;
+}
+
+#oci-tag-cloud,
+#oci-sitewide-tag-cloud,
+#oci-category-tree,
+#oci-edit-tags {
+	width: 270px;
+	padding: 0 0 1em 0;
+	}
+
+#oci-terms-list li,
+#oci-tag-cloud li,
+#oci-sitewide-tag-cloud li,
+#oci-category-tree li,
+#oci-edit-tags li {
+	list-style: none;
+	}
+#oci-tag-cloud .children,
+#oci-sitewide-tag-cloud .children,
+#oci-category-tree .children,
+#oci-edit-tags .children {
+	margin-left: 15px;
+	}
+li a#user-contents,
+li a#my-contents,
+li a#profile,
+li a#admin,
+li a#contents {
+	background: url(../images/tag_orange.png) 88% 52% no-repeat;
+	padding: 0.55em 3.1em 0.55em 0 !important;
+	display: block;
+	margin-right: 0.85em;
+	}
+.cat-item,
+.children{
+	line-height: 1.5em;
+	}
+ul.item-list li .item {
+	margin-left: 71px;
+	line-height: 100%;
+	}
+ul.item-list li .item-meta {
+	margin: 0.5em 0 0 0;
+	}
+ul.item-list li .item-meta.description {
+	line-height: 120%;
+	}
